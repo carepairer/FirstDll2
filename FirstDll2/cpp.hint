@@ -1,0 +1,2 @@
+#define FIRSTDLL2_API __declspec(dllexport)
+#define FIRSTDLL2_API __declspec(dllimport)
