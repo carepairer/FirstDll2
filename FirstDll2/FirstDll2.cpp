@@ -6,7 +6,7 @@
 #include "FirstDll2.h"
 
 
-// 这是导出变量的一个示例
+// 这是导出变量的一个示例,再试着修改一下注释
 FIRSTDLL2_API int nFirstDll2=0;
 
 // 这是导出函数的一个示例。
