@@ -3,6 +3,6 @@
   FirstDll2.cpp
     正在创建库 C:\Users\Administrator\source\repos\FirstDll2\Release\FIRSTDLL2.lib 和对象 C:\Users\Administrator\source\repos\FirstDll2\Release\FIRSTDLL2.exp
   正在生成代码
-  All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  All 8 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   已完成代码的生成
   FirstDll2.vcxproj -> C:\Users\Administrator\source\repos\FirstDll2\Release\FIRSTDLL2.dll
